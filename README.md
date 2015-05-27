@@ -1,0 +1,2 @@
+# MyDiary
+MyDiary - sample application

@@ -2,7 +2,8 @@ language: objective-c
 before_install:
   - gem update cocoapods
 
- script:
+script:
   - pod install
   - xctool -project MyDiary/MyDiary.xcodeproj -scheme MyDiary -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
   
+ 

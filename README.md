@@ -1,5 +1,6 @@
-# MyDiary
-MyDiary - simple diary prototype.
+# MyDiary  [![Build Status](https://travis-ci.org/somedev/MyDiary.svg?branch=master)](https://travis-ci.org/somedev/MyDiary) 
+   
+MyDiary - simple diary application prototype.
 The app was a test task on my iOS dev job interview.
 
 Project uses ARC. Requires iOS 7.1+
